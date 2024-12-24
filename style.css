@@ -1,0 +1,20 @@
+body{
+    background:black;
+    color:red;
+    text-align:center;
+    font-size:100px;
+     font-family:digital-7;
+    
+    }
+    div{
+    height : 350px ;
+    width: 1000px;
+    box-shadow: 0px 0px 50px 5px rgba(255, 0, 0, 1), 0px 0px 10px 10px
+     rgba(255, 0, 0, 1) , 0px 0px 10px 20px rgba(255, 0, 0, 1)inset ;
+     border: 20px grove red;
+     margin: 0px auto;
+     font-size: 220px;
+     font-family:digital-7;
+     border-radius: 30px;
+     line-height:350px;
+    }
